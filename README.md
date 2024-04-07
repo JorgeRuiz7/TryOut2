@@ -1,1 +1,17 @@
-# TryOut2
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ABOUT PAGE</title>
+</head>
+<body>
+    <div class="container">
+        <h1>ABOUT ME</h1>
+        <p>Hello, I am Jorge Ruiz and this is my website!</p>
+        <a href="./Jorge's index.html"><h2>Click here to return to main page!</h2></a>
+    </div>
+</body>    
+</html>
